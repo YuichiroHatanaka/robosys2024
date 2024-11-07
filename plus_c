@@ -1,0 +1,6 @@
+#!/usr/bin/python3
+import sys
+
+nums = [ float(e) for e in sys.argv[1:] ]   #引数を浮動小数点数に変換してリスト作成
+print(sum(nums))                            #リストの和を返すsum関数を利用
+
