@@ -1,8 +1,0 @@
-#!/usr/bin/python3
-
-import sys
-
-for line in sys.stdin:
-    word = sys.stdin
-    #aword = line.strip() #最後の改行を消去する
-    print(word + " を標準入力から呼んだよ" )
