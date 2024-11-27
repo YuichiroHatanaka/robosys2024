@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+# SPDX-FileCopyrightText: 2024 Yuichiro Hatanaka <s19c1092el@s.chibakoudai.jp>
+# SPDX-License-Identifier: BSD-3-Clause
+
 import sys
 
 nums = [ float(e) for e in sys.argv[1:] ]   #引数を浮動小数点数に変換してリスト作成

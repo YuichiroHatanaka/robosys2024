@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2024 Yuichiro Hatanaka <s19c1092el@s.chibakoudai.jp>
+# SPDX-License-Identifier: BSD-3-Clause
+
 name = "hata"
 tmp = name
 money = 5       #5という数字にmoneyという名前をつける

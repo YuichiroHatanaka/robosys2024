@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+# SPDX-FileCopyrightText: 2024 Yuichiro Hatanaka <s19c1092el@s.chibakoudai.jp>
+# SPDX-License-Identifier: BSD-3-Clause
 
 fruits = ["a", "b", "c", "d", "e" ]
 print("0番目から2番目の要素: ", fruits[0:3])
